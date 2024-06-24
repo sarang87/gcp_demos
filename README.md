@@ -66,3 +66,5 @@ This guide will walk you through the steps to set up credentials on Google Cloud
    ```sh
    python3 -m venv env
    source env/bin/activate  # On Windows use `env\Scripts\activate`
+   pip install google-auth google-auth-oauthlib google-api-python-client
+   ```
