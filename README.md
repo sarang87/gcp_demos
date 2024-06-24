@@ -1,4 +1,4 @@
-# Google Cloud PLatform working demos
+# Google Cloud Platform working demos
 
 This guide will walk you through the steps to set up credentials on Google Cloud Platform (GCP), configure the consent screen, and run a Python script to send emails using the Gmail API.
 
